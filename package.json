@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/trevorwang/passport-teambition/issues"
   },
-  "homepage": "https://github.com/trevorwang/passport-teambition#readme"
+  "homepage": "https://github.com/trevorwang/passport-teambition#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2"
+  }
 }

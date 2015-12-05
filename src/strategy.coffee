@@ -65,6 +65,7 @@ Strategy = (options, verify) ->
   @name = 'teambition'
   @_userProfileURL = options.userProfileURL or 'https://api.teambition.com/users/me'
   @_oauth2.useAuthorizationHeaderforGET true
+  @_oauth2._authMethod = 'OAuth2'
   return
 
 util.inherits Strategy, OAuth2Strategy

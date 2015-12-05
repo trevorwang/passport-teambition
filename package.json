@@ -1,7 +1,7 @@
 {
   "name": "passport-teambition",
-  "version": "1.0.0",
-  "description": "teambiton passport module",
+  "version": "1.0.1",
+  "description": "teambiton passport auth module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

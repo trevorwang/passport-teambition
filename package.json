@@ -1,6 +1,6 @@
 {
   "name": "passport-teambition",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Teambiton authentication strategy for Passport.",
   "main": "./lib",
   "scripts": {
